@@ -1,0 +1,123 @@
+Step1 doneStep2 doneStep3 done1
+2
+3
+4
+5
+6
+The number of prevalent pattern is: 100
+The prevalent patterns are: 
+( AB ): 0.138861
+( AC ): 0.157342
+( AD ): 0.158987
+( AE ): 0.154684
+( AF ): 0.0610127
+( AG ): 0.122025
+( AH ): 0.07
+( AI ): 0.0555696
+( AJ ): 0.0727848
+( AK ): 0.0525316
+( AX ): 0.0507595
+( BC ): 0.164269
+( BD ): 0.182681
+( BE ): 0.106156
+( BF ): 0.0785386
+( BG ): 0.109896
+( BH ): 0.122267
+( BI ): 0.0601266
+( BJ ): 0.0727848
+( BK ): 0.0517837
+( BL ): 0.0618527
+( CD ): 0.226991
+( CE ): 0.131864
+( CF ): 0.136118
+( CG ): 0.192575
+( CH ): 0.158159
+( CI ): 0.0989946
+( CJ ): 0.062645
+( CL ): 0.0719258
+( CN ): 0.0630317
+( CO ): 0.0649652
+( CP ): 0.0518175
+( CQ ): 0.0599381
+( DE ): 0.14393
+( DF ): 0.0921986
+( DG ): 0.190655
+( DH ): 0.134335
+( DI ): 0.0901126
+( DJ ): 0.0629954
+( DK ): 0.0538173
+( DL ): 0.0788486
+( DN ): 0.0584063
+( DP ): 0.0517313
+( DS ): 0.0504798
+( EF ): 0.0888502
+( EG ): 0.119338
+( EH ): 0.0810105
+( EI ): 0.0766551
+( EJ ): 0.0631533
+( FG ): 0.127222
+( FH ): 0.142045
+( FI ): 0.12642
+( FO ): 0.0852273
+( FQ ): 0.0582386
+( Fb ): 0.079072
+( Fe ): 0.0857008
+( Fj ): 0.0738636
+( GH ): 0.147778
+( GI ): 0.0955556
+( GJ ): 0.0616667
+( GL ): 0.0611111
+( GN ): 0.0594444
+( GO ): 0.0505556
+( GP ): 0.0522222
+( GQ ): 0.05
+( HI ): 0.0979866
+( HJ ): 0.0791946
+( HK ): 0.0530201
+( HL ): 0.0718121
+( HM ): 0.0657718
+( HN ): 0.0543624
+( HO ): 0.0530201
+( HQ ): 0.057047
+( HR ): 0.0651007
+( IL ): 0.0574468
+( IN ): 0.0553191
+( IO ): 0.0723404
+( IP ): 0.0553191
+( IQ ): 0.05
+( JK ): 0.0653378
+( JM ): 0.0620155
+( LM ): 0.0542636
+( LN ): 0.0635659
+( LQ ): 0.0604651
+( LR ): 0.0604651
+( MO ): 0.0591398
+( Mc ): 0.0591398
+( NP ): 0.0560538
+( NR ): 0.0515695
+( OP ): 0.0519187
+( OQ ): 0.0699774
+( Ob ): 0.0519187
+( Oe ): 0.0519187
+( PQ ): 0.0501139
+( TU ): 0.0555556
+( TV ): 0.0593472
+( YZ ): 0.0711864
+( Yc ): 0.0508475
+( be ): 0.0528302
+( ej ): 0.0509804
+Execution time for materizaling starneighbors is: 2666.7 s.
+Execution time for generating candidates: 0.049s.
+Execution time for filtering star instances: 4.416s.
+Execution time for filtering coarse co-locations: 0.049s.
+Execution time for filtering clique instances: 6.34s.
+Execution time for filtering prevalent co-locations: 0.111s.
+Time taken by the program is (No neighboring) : 10.965 s.
+Time taken by the program is (all) : 2677.67 s.
+Memory usage: 71088(kB)
+Peak memory usage: 10179964(kB)
+The maximal size of patterns is: 2
+Patters by sizes: 
+Size	# patterns
+2 : 100
+

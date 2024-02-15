@@ -1,0 +1,125 @@
+doneThe number of prevalent pattern is: 107
+The prevalent patterns are: 
+( AB ): 0.385
+( ABC ): 0.100926
+( ABD ): 0.128519
+( ABE ): 0.11463
+( ABG ): 0.102593
+( ABH ): 0.108889
+( ABL ): 0.0585185
+( AC ): 0.326296
+( ACD ): 0.0888889
+( ACE ): 0.0994444
+( ACF ): 0.0577778
+( ACG ): 0.0740741
+( ACH ): 0.0722222
+( AD ): 0.315
+( ADE ): 0.0955556
+( ADG ): 0.0724074
+( ADH ): 0.0787037
+( AE ): 0.35037
+( AEF ): 0.0585185
+( AEG ): 0.0918519
+( AEH ): 0.0898148
+( AEJ ): 0.0725926
+( AF ): 0.162037
+( AG ): 0.275
+( AGH ): 0.0655556
+( AH ): 0.263889
+( AI ): 0.166296
+( AJ ): 0.157222
+( AK ): 0.138333
+( AL ): 0.159074
+( BC ): 0.281538
+( BCD ): 0.0848427
+( BCE ): 0.0734032
+( BCG ): 0.0524309
+( BCH ): 0.067048
+( BD ): 0.389467
+( BDE ): 0.111952
+( BDG ): 0.0719016
+( BDH ): 0.103122
+( BDL ): 0.0514033
+( BE ): 0.316619
+( BEG ): 0.0747398
+( BEH ): 0.0993377
+( BEJ ): 0.0507726
+( BF ): 0.113844
+( BG ): 0.243772
+( BGH ): 0.0614948
+( BH ): 0.27783
+( BI ): 0.125197
+( BJ ): 0.119521
+( BK ): 0.140334
+( BL ): 0.181015
+( CD ): 0.238322
+( CDE ): 0.0584684
+( CE ): 0.238004
+( CEG ): 0.0505243
+( CEH ): 0.0610105
+( CF ): 0.175405
+( CG ): 0.197013
+( CH ): 0.172545
+( CI ): 0.16333
+( CJ ): 0.0902447
+( CK ): 0.178583
+( CL ): 0.155386
+( DE ): 0.307758
+( DEG ): 0.0595799
+( DEH ): 0.0720103
+( DEJ ): 0.0576923
+( DF ): 0.0995727
+( DG ): 0.201282
+( DGH ): 0.0568376
+( DH ): 0.258547
+( DI ): 0.147009
+( DJ ): 0.128205
+( DK ): 0.136752
+( DL ): 0.143162
+( EF ): 0.189027
+( EG ): 0.249464
+( EGH ): 0.0741535
+( EGJ ): 0.0621517
+( EH ): 0.259323
+( EHJ ): 0.0754393
+( EI ): 0.133733
+( EJ ): 0.252893
+( EK ): 0.128161
+( EL ): 0.118731
+( FG ): 0.18239
+( FH ): 0.14008
+( FI ): 0.133219
+( FJ ): 0.0897656
+( FK ): 0.0960549
+( FL ): 0.0943396
+( GH ): 0.250348
+( GI ): 0.2121
+( GJ ): 0.149513
+( GK ): 0.168289
+( GL ): 0.18637
+( HI ): 0.116959
+( HJ ): 0.204678
+( HK ): 0.131579
+( HL ): 0.16886
+( IJ ): 0.108696
+( IK ): 0.223244
+( IL ): 0.186455
+( JK ): 0.0840259
+( JL ): 0.0928144
+( KL ): 0.190619
+Execution time for materizaling starneighbors is: 873.41 s.
+Execution time for generating candidates: 0.016s.
+Execution time for filtering star instances: 8.486s.
+Execution time for filtering coarse co-locations: 0.17s.
+Execution time for filtering clique instances: 4.721s.
+Execution time for filtering prevalent co-locations: 0.207s.
+Time taken by the program is (No neighboring) : 13.6 s.
+Time taken by the program is (all) : 887.067 s.
+Memory usage: 69256(kB)
+Peak memory usage: 5071252(kB)
+The maximal size of patterns is: 3
+Patters by sizes: 
+Size	# patterns
+2 : 66
+3 : 41
+

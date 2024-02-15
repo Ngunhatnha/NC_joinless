@@ -1,0 +1,30 @@
+Step1 doneStep2 doneStep3 done1
+2
+3
+4
+5
+The number of prevalent pattern is: 8
+The prevalent patterns are: 
+( AB ): 0.263785
+( AE ): 0.220335
+( AF ): 0.311866
+( BE ): 0.219478
+( BF ): 0.216348
+( DE ): 0.206006
+( EF ): 0.20731
+( IM ): 0.20671
+Execution time for materizaling starneighbors is: 1127.84 s.
+Execution time for generating candidates: 0.007s.
+Execution time for filtering star instances: 0.131s.
+Execution time for filtering coarse co-locations: 0.005s.
+Execution time for filtering clique instances: 2.236s.
+Execution time for filtering prevalent co-locations: 0.05s.
+Time taken by the program is (No neighboring) : 2.429 s.
+Time taken by the program is (all) : 1130.27 s.
+Memory usage: 4168384(kB)
+Peak memory usage: 9104040(kB)
+The maximal size of patterns is: 2
+Patters by sizes: 
+Size	# patterns
+2 : 8
+
