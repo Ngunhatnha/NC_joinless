@@ -88,7 +88,7 @@ unsigned short NaturalNeighborhood::get_Density(const ObjWithCoord& corePoint, O
             continue;
         // check in circle first
         dPowDiameterTmp = pow((vecTi[i]->x - corePoint.x), 2) + pow((vecTi[i]->y - corePoint.y), 2);
-        if (dPowDiameterTmp <= dPowDiameter)
+        if (dPowDiameterTmp < dPowDiameter)
         {
             // check in circle second
             dPowDiameterTmp = pow((vecTi[i]->x - xyCenter[0]), 2) + pow((vecTi[i]->y - xyCenter[1]), 2);
